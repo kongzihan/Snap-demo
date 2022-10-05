@@ -1,8 +1,9 @@
 # Snap-demo
-简要介绍了一系列 Snap.py 操作
+介绍了一些关于 Snap.py 操作
 
-有几个程序可用于演示 Snap.py。这些程序也可用于测试，以确认 Snap.py 安装是否正常工作：
+项目中的程序展示了 Snap.py 的操作，这些程序也可用于测试 Snap.py 是否正确安装。
 
+```
 quick_test.py：快速测试，以确认 Snap.py 在您的计算机上正常工作; 
 
 intro.py：组合此页面下面显示的代码; 
@@ -18,5 +19,6 @@ attributes.py：演示了在 TNEANet 网络类中使用属性;
 test-gnuplot.py：快速测试以确认gnuplot有效; 
 
 test-graphviz.py：一个快速测试，以确认 Graphviz 是否有效。
+```
 
 所有代码都假定 Snap.py 已由 Python 程序导入。
